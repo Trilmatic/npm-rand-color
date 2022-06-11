@@ -1,0 +1,24 @@
+{
+  "name": "@trilmatic/random-color",
+  "version": "1.0.0",
+  "description": "Function for generating random hexadecimal color string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trilmatic/npm-rand-color.git"
+  },
+  "keywords": [
+    "color",
+    "random",
+    "hexadecimal"
+  ],
+  "author": "Trilmatic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trilmatic/npm-rand-color/issues"
+  },
+  "homepage": "https://github.com/Trilmatic/npm-rand-color#readme"
+}
